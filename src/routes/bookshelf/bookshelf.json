@@ -1,0 +1,109 @@
+{ 
+  "books": [
+    {
+      "title": "The Pattern Seekers",
+      "author": "Simon Baron-Cohen",
+      "blurb": "The other talented/intelligent Baron-Cohen brother with a popular science book around his area of expertise - autism. Not all autism becomes or has the ability to harness what we may class as 'genius'. Not overlooking where we can use pattern seekers in the everyday workforce was a strong takeaway."
+    },
+    {
+      "title": "Friends, Lovers, and the Big Terrible Thing - A Memoir",
+      "author": "Matthew Perry",
+      "blurb": "I have watched a lot of Friends the TV series in my lifetime. I can happily have a 30 minute episode on at any time of year or at any altitude. Interestingly Chandler - Matthew Perry's character - was probably my least favourite as I grew up watching this. Having then recently read an interview/excerpt with Perry in WSJ, I gave this a try and I am so glad I did. He brings you along for the ride of part successful actor, part hyper-addict. A sobering read."
+    },
+    {
+       "title": "Losing the Signal",
+      "author": "Jacquie McNish, Sean Silcoff",
+      "blurb": "Why it took me so long to discover and read this, I don't know. One day I just thought 'there must be a book about Blackberry's rise and fall' and yes, there was. Having owned a Blackberry as a teenager (18 years old, at university) and for the next four or so years until an iPhone - this book explained everything. This is rise and fall at its best, because it's not just one personality but several, and several competing interests that caused a lucky break (in my opinion) to end so unfortunately. The chapters about the basic premise of using existing slow networks to deliver email virtually real time should be formative technology reading."
+    },
+    {
+      "title": "Boundless: The Rise, Fall and Escape of Carlos Ghosn",
+      "author": "Nick Kostov",
+      "blurb": "I seem to have a thing for a book that involves someone failing spectacularly at some stage in their life - and this was no exception. A couple of years before his dramatic arrest and escape, I can remember reading articles about Ghosn - marveling at what he had achieved and the life he must be living between Japan and Europe. This book helped keep things in perspective - that what one reads in magazines and newspapers are 99.99% likely to not be as they appear (go figure), and that people in these positions tend to have a lot going on behind the scenes. In Ghosn's case, that is putting it mildly."
+    },
+    {
+      "title": "Build",
+     "author": "Tony Faddell",
+     "blurb": "I have been looking for 'this book' for a long time. It did not necessarily have to be Faddell, but someone with his background approaching a book like this. Rather than spend countless hours mentoring people one on one - spend that time writing a book to mentor many times what direct contact time could achieve."
+    },
+    {
+      "title": "Liar's Poker",
+      "author": "Michael Lewis",
+      "blurb": "This is my first ever Michael Lewis read, and I love his style of writing. Being his first major book, it also tells a little of his own story. I am glad I started with his books here."
+    },
+    {
+      "title": "Super Pumped: The Battle for Uber",
+      "author": "Mike Isaac",
+      "blurb": "I cannot remember why I decided to pick this one up. I do not particularly like Uber, and anything I had read previously about Travis Kalanick was unfavourable. This book generally confirmed both of those points with great and interesting detail."
+    },
+    {
+      "title": "A Seat at the Table and the Art of Business Value",
+      "author": "Mark Schwartz",
+      "blurb": "This was recommended by a CTO mentor of mine at a time when I needed to re-think the CTO's place in an organisation. Schwartz makes a lot of good points, however he does tend to flip flop by his own admission through the chapters, which I found both refreshing and irritating at the same time."
+    },
+    {
+      "title": "[2] Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "blurb": "Admittedly I read a lot less fiction than I would like to. I read (I think?) the first five HP books as and when they were released. Growing up in Edinburgh meant everyone knew about Harry Potter very 'early' in its existence. Reading the first book again about 20 years later was a joy. I intend to read more of them. I still remember wishing I was at school at Hogwarts than real school, like it was yesterday."
+    },
+    {
+      "title": "Essays",
+      "author": "Paul Graham",
+      "blurb": "Whilst not an official book, this was a kindle version of all of Paul Graham's essays in one. I tend to read things like this cover to cover and PG's essays are just a cornerstone of wisdom in the internet era for anyone looking for it."
+    },
+    {
+      "title": "[2] The Rise and Fall of the City of Money: A Financial History of Edinburgh",
+      "author": "Ray Perman",
+      "blurb": "Growing up in Edinburgh, you become acutely aware that there is 'history' throughout the city. However, understanding exactly how the areas of the old and new town relate, and how some of the most formative buildings came into existence is probably not known by the majority of inhabitants. Surprisingly, this book has it all along with its namesake. I couldn't help thinking at multiple stages whilst reading this the parallels between the introduction of paper money (i.e. bank notes) and just about every difficulty financial systems have ever faced. Whether it is understanding quantitative easing of the last several years or cryptocurrency - the sections on how paper money came into existence and how many booms and busts there were as a result. Until this book, I had been looking for a 'history of money' type of read - however this covered a lot of what I was looking for. I thank a dear friend for gifting me this book - they know me well."
+    },
+    {
+      "title": "Best Served Cold: The Rise, Fall and Rise again of Malcolm Walker - CEO of Iceland Foods",
+      "author": "Malcolm Walker",
+      "blurb": "I love unsexy businesses, and I think frozen food supermarkets are about the pinnacle of this. I learned more about what happens when businesses are sold and the process of small-cap CEO recruitment."
+    },
+    {
+      "title": "Theory of Fun for Game Design",
+      "author": "Raph Koster",
+      "blurb": "I have always been interested in the theory behind making games. I watch a lot of YouTube 'history of X gaming franchise' videos. For anyone actually looking to create a game, or simply something that is tapping into the user's brain for enjoyment, this is a must read. Koster's examples of how mechanics are wrapped in different contexts is illuminating. Clearly this was written at a time when defending violence in video games was on the mind of game creators (circa Grand Theft Auto 3+)"
+    },
+    {
+      "title": "Built on a lie",
+      "author": "Owen Walker",
+      "blurb": "I had to look this up again as the title meant nothing to me. Oh yes! It was actually a great book, just a terrible title. Another tale of hubris and then denial, and middle class Britain's worst faults. This is helpful in understanding how the average person in the UK invests their money and how fallible that is."
+    },
+    {
+      "title": "Range",
+      "author": "David Epstein",
+      "blurb": "This book was a huge help to read, as a self-certified strong generalist who until this point, thought that was a bad thing. Too much is celebrated around 'genius specialists' as well as 'grit' (and/or 10,000 hours to master something) made popular by Angela Duckworth. This book will either make you proud to be, or inspired to become, a great generalist."
+    },
+    {
+      "title": "Bloomberg By Bloomberg",
+      "author": "Michael R. Bloomberg",
+      "blurb": "An unfussy and to the point autobiography. Amongst other things, I enjoyed learning about the evolution / story of the Bloomberg terminal and their 'design partner' customer Merrill Lynch. It gets a little political towards the end - updated ahead of his presidential run a few years ago."
+    },
+    {
+      "title": "Masters of Doom",
+      "author": "David Kushner",
+      "blurb": "The story of the game-changing (literally) Doom series of games. Probably one that every programmer should read - a fun story about hugely influential people and technology that you may not realise has affected you. If you're craving that 'coding great things with friends' time but cannot realize it right now - read this."
+    },
+    {
+      "title": "Amazon Unbound",
+      "author": "Brad Stone",
+      "blurb": "The follow on from 'The Everything Store' - ie all things Jeff Bezos since that last book. Since Bezos had arguably become more of a known household name than Amazon itself by the time the book was being written. A peek inside a (by that stage) megalomaniac’s head and the trappings of wanting more, endlessly. Having sold my share of Pixelcabin. Having sold out of Pixelcabin by this stage, this was a cathartic read also as to how 'bad' e-commerce had become."
+    },
+    {
+      "title": "Billion Dollar Fantasy",
+      "author": "Albert Chen",
+      "blurb": "No relation or link to the book of a very similar name below. I knew the FanDuel founders from my time at Edinburgh university through someone at the delicatessen I worked at. They helped me with my first startup and I used their first product <a href='https://web.archive.org/web/20080131214450/http://www.hubdub.com/' target='blank'>(Hubdub.com)</a>. I then hung out sporadically with Tom in New York after we both moved there around the same time. So when I discovered this book existed, naturally I wanted to read it. A useful tale about the perils of venture capital and being out of your depth."
+    },
+    {
+      "title": "Working Backwards",
+      "author": "Colin Bryar",
+      "blurb": "I took away many new thoughts as to how to approach various business areas from reading this. The key two were the (now infamous) 'bar raiser' hiring process, and the 'press-release' style product opener. The former I have since had a lot of success with in practice (especially written feedback to remove bias), the latter is still extremely hard to to get across to a general audience in the work setting, despite (in my opinion) being an excellent tool for kicking off a product project."
+    },
+    {
+    "title": "Billion Dollar Loser",
+    "author": "Reeves Wiedman",
+    "blurb": "I have been a fairly frequent user of WeWorks through the years. Our first ever client meeting at Pixelcabin was at the first 'real' WeWork in Soho in New York back in 2012. After many years of usage, nothing made sense financially as a user, and the app definitely did not warrant categorizing the company as 'tech'. This book confirmed why."
+    }
+  ]
+}
